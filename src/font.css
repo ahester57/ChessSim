@@ -1,0 +1,93 @@
+
+
+.root {
+    -fx-background-color: floralwhite;
+}
+
+.scene {
+    -fx-background-color: black;
+}
+
+.black {
+	-fx-font-family: "Chess Cases";
+	-fx-font-size: 42;
+	-fx-text-fill: black;
+    -fx-background-color: snow;
+}
+
+.salmon {
+	-fx-font-family: "Chess Cases";
+	-fx-font-size: 42;
+	-fx-text-fill: coral;
+    -fx-background-color: azure;
+}
+
+.darkseagreen {
+	-fx-font-family: "Chess Cases";
+	-fx-font-size: 42;
+	-fx-text-fill: mediumseagreen;
+    -fx-background-color: snow;
+}
+
+.firebrick {
+	-fx-font-family: "Chess Cases";
+	-fx-font-size: 42;
+	-fx-text-fill: firebrick;
+    -fx-background-color: lavender;
+}
+
+.maroon {
+	-fx-font-family: "Chess Cases";
+	-fx-font-size: 42;
+	-fx-text-fill: maroon;
+    -fx-background-color: lavender;
+}
+
+.cadetblue {
+	-fx-font-family: "Chess Cases";
+	-fx-font-size: 42;
+	-fx-text-fill: cadetblue;
+    -fx-background-color: mistyrose;
+}
+
+.indigo {
+	-fx-font-family: "Chess Cases";
+	-fx-font-size: 42;
+	-fx-text-fill: indigo;
+    -fx-background-color: wheat;
+}
+
+.hotpink {
+	-fx-font-family: "Chess Cases";
+	-fx-font-size: 42;
+	-fx-text-fill: hotpink;
+    -fx-background-color: floralwhite;
+}
+
+.darkorange {
+	-fx-font-family: "Chess Cases";
+	-fx-font-size: 42;
+	-fx-text-fill: darkorange;
+    -fx-background-color: azure;
+}
+
+.sandybrown {
+	-fx-font-family: "Chess Cases";
+	-fx-font-size: 42;
+	-fx-text-fill: sandybrown;
+    -fx-background-color: azure;
+}
+
+.olive {
+	-fx-font-family: "Chess Cases";
+	-fx-font-size: 42;
+	-fx-text-fill: olive;
+    -fx-background-color: mistyrose;
+}
+
+.darkblue {
+	-fx-font-family: "Chess Cases";
+	-fx-font-size: 42;
+	-fx-text-fill: darkblue;
+    -fx-background-color: wheat;
+}
